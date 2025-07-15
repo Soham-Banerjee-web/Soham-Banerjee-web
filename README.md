@@ -14,5 +14,8 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Soham-Banerjee-web&icon=0&color=0)](https://visitcount.itsvg.in)
+![GitHub followers](https://img.shields.io/github/followers/Soham-Banerjee-web?style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/Soham-Banerjee-web?affiliations=OWNER%2CCOLLABORATOR)
+![GitHub Profile Views](https://komarev.com/ghpvc/?username=Soham-Banerjee-web&color=blue)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
