@@ -1,5 +1,5 @@
 # 💫 About Me:
-# 👋 Hey there! I'm Soham Banerjee<br><br>🚀 Aspiring Computer Scientist | 🧠 ML & AI Enthusiast | ☁️ AWS Cloud Explorer  <br>🎓 CSE Undergrad | 🇮🇳 Based in India | 🛫 Future Aero-Tech Innovator
+👋 Hey there! I'm Soham Banerjee<br><br>🚀 Aspiring Computer Scientist | 🧠 ML & AI Enthusiast | ☁️ AWS Cloud Explorer  <br>🎓 CSE Undergrad | 🇮🇳 Based in India | 🛫 Future Aero-Tech Innovator
 
 
 ## 🌐 Socials:
