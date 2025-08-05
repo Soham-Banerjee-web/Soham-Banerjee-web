@@ -17,7 +17,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/Soham-Banerjee-web?style=social)
 ![GitHub User's stars](https://img.shields.io/github/stars/Soham-Banerjee-web?affiliations=OWNER%2CCOLLABORATOR)
 ![GitHub Profile Views](https://komarev.com/ghpvc/?username=Soham-Banerjee-web&color=blue)
-[![View My Certifications](https://img.shields.io/badge/Certifications-Verified-blue)](https://github.com/Soham-Banerjee-web/Certificates)
+![View My Certifications](https://img.shields.io/badge/Certifications-Verified-blue)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
